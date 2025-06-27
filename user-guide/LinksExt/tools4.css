@@ -1,0 +1,32 @@
+﻿P.Figure {TEXT-ALIGN: center;  LINE-HEIGHT: normal;  MARGIN: 0pt 0pt 0pt 9pt;  FONT-FAMILY: "Verdana","sans-serif";  TEXT-AUTOSPACE: ;  FONT-SIZE: 10pt; }
+
+P.NumberedList {LINE-HEIGHT: 12pt;  TEXT-INDENT: -18pt;  MARGIN: 2pt 0pt 2pt 25.2pt;  FONT-FAMILY: "Arial","sans-serif";  FONT-SIZE: 10pt;  tab-stops: list 25.2pt; }
+
+P.table {TEXT-JUSTIFY: inter-ideograph;  TEXT-ALIGN: justify;  LINE-HEIGHT: 115%;  MARGIN: 6pt 0pt 0pt;  FONT-FAMILY: "Verdana","sans-serif";  FONT-SIZE: 10pt;  FONT-WEIGHT: bold; }
+
+SPAN.UGHyperlink {FONT-FAMILY: "Arial","sans-serif";  COLOR: blue;  TEXT-DECORATION: underline;  text-underline: single; }
+
+SPAN.Heading2Char {FONT-FAMILY: "Verdana","sans-serif";  FONT-WEIGHT: bold; }
+
+P.BodyText10 {LINE-HEIGHT: 14pt;  MARGIN: 2pt 0pt 6pt;  FONT-FAMILY: "Arial","sans-serif";  FONT-SIZE: 10pt; }
+
+SPAN.Heading3Char {FONT-FAMILY: "Verdana","sans-serif";  FONT-WEIGHT: bold; }
+
+SPAN.Heading4Char {FONT-FAMILY: "Verdana","sans-serif";  FONT-WEIGHT: bold; }
+
+P.TableHeading {TEXT-ALIGN: center;  LINE-HEIGHT: normal;  MARGIN: 0pt 0pt 0pt 9pt;  FONT-FAMILY: "Verdana","sans-serif";  TEXT-AUTOSPACE: ;  FONT-SIZE: 10pt;  FONT-WEIGHT: bold; }
+
+P.BulletedList {LINE-HEIGHT: 12pt;  TEXT-INDENT: -18pt;  MARGIN: 2pt 0pt 2pt 36pt;  FONT-FAMILY: "Arial","sans-serif";  FONT-SIZE: 10pt; }
+
+P {LINE-HEIGHT: 14pt;  MARGIN: 5pt 0pt 0pt;  FONT-FAMILY: "Verdana","sans-serif";  FONT-SIZE: 10pt; }
+
+P.TableText {LINE-HEIGHT: 14pt;  MARGIN: 0pt;  FONT-FAMILY: "Verdana","sans-serif";  FONT-SIZE: 10pt;  tab-stops: 36.0pt; }
+
+SPAN.BodyText1Char {FONT-FAMILY: "Arial","sans-serif"; }
+
+SPAN.NoteChar {FONT-FAMILY: "Verdana","sans-serif"; }
+
+P.BodyTextHeading {LINE-HEIGHT: normal;  MARGIN: 0pt 0pt 2pt;  FONT-FAMILY: "Verdana","sans-serif";  TEXT-AUTOSPACE: ;  FONT-SIZE: 10pt;  FONT-WEIGHT: bold; }
+
+P.BodyText1 {LINE-HEIGHT: 12pt;  MARGIN: 2pt 0pt 6pt;  FONT-FAMILY: "Arial","sans-serif";  FONT-SIZE: 10pt; }
+
