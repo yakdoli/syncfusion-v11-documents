@@ -1,0 +1,24 @@
+﻿P.Figure {TEXT-ALIGN: center;  LINE-HEIGHT: normal;  MARGIN: 0pt 0pt 0pt 9pt;  FONT-FAMILY: "Verdana","sans-serif";  TEXT-AUTOSPACE: ;  FONT-SIZE: 10pt; }
+
+P.NumberedList {LINE-HEIGHT: 12pt;  TEXT-INDENT: -18pt;  MARGIN: 2pt 0pt 2pt 25.2pt;  FONT-FAMILY: "Arial","sans-serif";  FONT-SIZE: 10pt;  tab-stops: list 25.2pt; }
+
+SPAN.Heading1Char {FONT-FAMILY: "Verdana","sans-serif";  FONT-WEIGHT: bold; }
+
+SPAN.apple-style-span {}
+
+SPAN.UGHyperlink {FONT-FAMILY: "Arial","sans-serif";  COLOR: blue;  TEXT-DECORATION: underline;  text-underline: single; }
+
+SPAN.Heading3Char {FONT-FAMILY: "Verdana","sans-serif";  FONT-WEIGHT: bold; }
+
+P.TableHeading {TEXT-ALIGN: center;  LINE-HEIGHT: normal;  MARGIN: 0pt 0pt 0pt 9pt;  FONT-FAMILY: "Verdana","sans-serif";  TEXT-AUTOSPACE: ;  FONT-SIZE: 10pt;  FONT-WEIGHT: bold; }
+
+SPAN.Heading5Char {FONT-FAMILY: "Verdana","sans-serif";  FONT-WEIGHT: bold; }
+
+P.BulletedList {LINE-HEIGHT: 12pt;  TEXT-INDENT: -18pt;  MARGIN: 2pt 0pt 2pt 36pt;  FONT-FAMILY: "Arial","sans-serif";  FONT-SIZE: 10pt; }
+
+P.TableText {LINE-HEIGHT: 14pt;  MARGIN: 0pt;  FONT-FAMILY: "Verdana","sans-serif";  FONT-SIZE: 10pt;  tab-stops: 36.0pt; }
+
+P.BodyText1 {LINE-HEIGHT: 12pt;  MARGIN: 2pt 0pt 6pt;  FONT-FAMILY: "Arial","sans-serif";  FONT-SIZE: 10pt; }
+
+P.BodyTextHeading {LINE-HEIGHT: normal;  MARGIN: 0pt 0pt 2pt;  FONT-FAMILY: "Verdana","sans-serif";  TEXT-AUTOSPACE: ;  FONT-SIZE: 10pt;  FONT-WEIGHT: bold; }
+
